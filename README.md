@@ -5,10 +5,15 @@ Pre-trained models of these networks are provided.
 RGB and Point Cloud samples of real world test data is included.
 
 Download the dataset from these links and extract to root folder;
+
 https://drive.google.com/file/d/1EW3JQvElcuXzawxEMRkA8YXwK_Ipiv-p/view?usp=drive_link
+
 https://drive.google.com/file/d/163TsrDe4q5KTQGCv90JRYFkCs7AGxFip/view?usp=drive_link
+
 https://drive.google.com/file/d/1GxyTYfSodumH78NbjWdmbjm8JP8AOkAY/view?usp=drive_link
+
 https://drive.google.com/file/d/1IoRsgBBr8qoC3HO-vEr6E7K4UZ6ku6-1/view?usp=drive_link
+
 https://drive.google.com/file/d/1svCYnwDazy5FN1DYSgqbGscvDKL_YnID/view?usp=drive_link
 
 Dataset is provided with CC BY (Attribution) license.
